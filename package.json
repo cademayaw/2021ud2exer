@@ -1,0 +1,22 @@
+{
+  "name": "cade",
+  "version": "1.0.0",
+  "description": "good",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cademayaw/2021ud2exer.git"
+  },
+  "author": "lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cademayaw/2021ud2exer/issues"
+  },
+  "homepage": "https://github.com/cademayaw/2021ud2exer#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
